@@ -1,0 +1,172 @@
+[
+  {
+    "id": "one",
+    "name": "Alisson",
+    "height": "1,91",
+    "weight": "91",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/alisson.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "2/10/1992"
+  },
+  {
+    "id": "two",
+    "name": "Ederson",
+    "height": "1,88",
+    "weight": "81",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/ederson.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "17/08/1993"
+  },
+  {
+    "id": "three",
+    "name": "Alex Sandro",
+    "height": "1,80",
+    "weight": "80",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/alex.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "26/01/1991"
+  },
+  {
+    "id": "four",
+    "name": "Danilo",
+    "height": "1,84",
+    "weight": "84",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/danilo.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "15/07/1991"
+  },
+  {
+    "id": "five",
+    "name": "Éder Militão",
+    "height": "1,86",
+    "weight": "78",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/militao.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "18/01/1998"
+  },
+  {
+    "id": "six",
+    "name": "Marquinhos",
+    "height": "1,83",
+    "weight": "75",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/marquinhos.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "14/05/1994"
+  },
+  {
+    "id": "seven",
+    "name": "Thiago Silva",
+    "height": "1,83",
+    "weight": "79",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/thiagosilva.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "22/09/1984"
+  },
+  {
+    "id": "eight",
+    "name": "Casemiro",
+    "height": "1,85",
+    "weight": "84",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/casemiro.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "23/02/1992"
+  },
+  {
+    "id": "nine",
+    "name": "Philippe Coutinho",
+    "height": "1,71",
+    "weight": "68",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/philippe.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "12/06/1992"
+  },
+  {
+    "id": "ten",
+    "name": "Fabinho",
+    "height": "1,88",
+    "weight": "78",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/fabinho.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "23/10/1993"
+  },
+  {
+    "id": "eleven",
+    "name": "Fred",
+    "height": "1,69",
+    "weight": "72",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/fred.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "05/03/1993"
+  },
+  {
+    "id": "twelve",
+    "name": "Lucas Paquetá",
+    "height": "1,80",
+    "weight": "72",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/paqueta.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "27/08/1997"
+  },
+  {
+    "id": "thirteen",
+    "name": "Gabriel Jesus",
+    "height": "1,75",
+    "weight": "68",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/gabrieljesus.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "03/04/1997"
+  },
+  {
+    "id": "fourteen",
+    "name": "Neymar Jr",
+    "height": "1,75",
+    "weight": "68",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/neymar.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "05/02/1992"
+  },
+  {
+    "id": "fifteen",
+    "name": "Raphinha",
+    "height": "1,76",
+    "weight": "63",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/raphinha.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "14/12/1996"
+  },
+  {
+    "id": "sixteen",
+    "name": "Richarlison",
+    "height": "1,83",
+    "weight": "77",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/richarlison.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "10/05/1997"
+  },
+  {
+    "id": "seventeen",
+    "name": "Vinícius Jr",
+    "height": "1,76",
+    "weight": "73",
+    "symbol": "/src/assets/symbol.webp",
+    "image": "/src/assets/vinijr.png",
+    "country": "/src/assets/brazil.jpg",
+    "data": "12/07/2000"
+  }
+]
