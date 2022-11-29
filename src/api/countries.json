@@ -1,0 +1,12 @@
+[
+  {
+    "flag": "/src/assets/br.png",
+    "name": "BRAZIL",
+    "id": "br"
+  },
+  {
+    "flag": "/src/assets/us.png",
+    "name": "EUA",
+    "id": "eua"
+  }
+]

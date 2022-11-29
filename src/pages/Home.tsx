@@ -1,22 +1,19 @@
 import { Link } from "react-router-dom";
+import Navbar from "../components/Navbar";
 
 export function Home() {
   return (
-    <div className="bg-home bg-cover flex w-screen h-screen">
-      <div className="flex flex-col">
-        <Link to="/">
-          <p className="text-white">Home</p>
-        </Link>
-        <Link to="/players">
-          <p className="text-white">Players</p>
-        </Link>
-        <Link to="/history">
-          <p className="text-white">History</p>
-        </Link>
-        <Link to="/games">
-          <p className="text-white">Games</p>
-        </Link>
-      </div>
+    <div className="bg-home bg-cover flex flex-col w-full h-screen">
+      <header>
+        <nav>
+          <Navbar />
+        </nav>
+      </header>
+      <main className="flex flex-1 items-center justify-center">
+        <strong className="text-6xl text-white font-poppins">
+          World Cup Qatar 2022
+        </strong>
+      </main>
     </div>
   );
 }
